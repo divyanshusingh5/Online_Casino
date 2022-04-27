@@ -264,7 +264,7 @@ float dessert()
 
 float total() // Food Menu Calculations.
 {
-    printf("Do you want to dine in or take away?\n");
+    printf("Do you ant to dine in or take away?\n");
     printf("1) Dine In 2) Take Away\n");
     scanf("%d", &w);
     switch (w)
